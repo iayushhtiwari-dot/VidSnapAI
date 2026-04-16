@@ -16,19 +16,19 @@ VidSnapAI is an AI-powered content creation tool designed to bridge the gap betw
 <img width="833" height="271" alt="image" src="https://github.com/user-attachments/assets/e688981d-9bb3-496f-a668-c630fbddec5c" />
 
 + ## 🛠️ Installation & Setup
-### Clone the repository:
+- ### Clone the repository:
 ```Bash
 git clone https://github.com/your-username/VidSnapAI_Project.git
 cd VidSnapAI_Project
 ```
-### Install dependencies:
+- ### Install dependencies:
 ```Bash
 pip install -r requirements.txt
 ```
-### Configure API Keys:
+- ### Configure API Keys:
 Open config.py and add ElevenLabs AI service credentials.
 
-### Run the application:
+- ### Run the application:
 ```Bash
 python main.py
 ```
