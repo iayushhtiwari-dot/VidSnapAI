@@ -13,14 +13,5 @@ VidSnapAI is an AI-powered content creation tool designed to bridge the gap betw
 **Upcoming - Reel Generator:** Roadmap includes automatic background video stitching, subtitle overlay, and 9:16 aspect ratio formatting for Instagram and TikTok.
 
 ##📂 Project Structure
+<img width="833" height="271" alt="image" src="https://github.com/user-attachments/assets/e688981d-9bb3-496f-a668-c630fbddec5c" />
 
-###VidSnapAI_Project/
-├── main.py              # Entry point of the application
-├── generate_process.py  # Core logic for handling AI generation workflows
-├── text_to_audio.py     # Module dedicated to speech synthesis
-├── config.py            # Configuration settings (API keys, paths, etc.)
-├── templates/           # HTML templates for the web interface
-├── static/              # CSS, JS, and static images
-├── user_uploads/        # Directory for user-provided assets (scripts, images)
-├── template.zip         # Compressed assets/boilerplate for reel generation
-└── .hintrc              # Linting and development configuration
