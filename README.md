@@ -48,4 +48,5 @@ python main.py
 **Automated Subtitles:** Hardcoded captions synchronized with the generated audio.
 
 **Background Music:** AI-driven selection of BGM to match the mood of the script.
+
 **Background Music:** AI-driven selection of BGM to match the mood of the script.
