@@ -34,11 +34,11 @@ python main.py
 ```
 
 + ## How it Works
-**Input:** The user provides a text script via the web UI or by placing a file in user_uploads/.
+ - **Input:** The user provides a text script via the web UI or by placing a file in user_uploads/.
 
-**Processing:** generate_process.py triggers text_to_audio.py to communicate with the AI model.
+ - **Processing:** generate_process.py triggers text_to_audio.py to communicate with the AI model.
 
-**Output:** A high-quality audio file is generated and stored for the user to preview or download.
+ - **Output:** A high-quality audio file is generated and stored for the user to preview or download.
 
 + ## Roadmap (Upcoming)
  - **Visual Integration:** Automatically fetching background footage or images based on keywords.
