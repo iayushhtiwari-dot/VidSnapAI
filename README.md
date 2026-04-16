@@ -3,7 +3,11 @@ VidSnapAI is an AI-powered content creation tool designed to bridge the gap betw
 
 ## Key Features
 **Text-to-Audio Synthesis:** Convert long-form text or short scripts into clear, expressive audio files.
+
 **Template-Based Processing:** Uses pre-defined templates to structure content effectively.
+
 **File Management:** Organized handling of user uploads and generated assets.
+
 **Web-Ready (Flask ready):** Includes static and templates folders, making it easy to deploy as a web application.
+
 **Upcoming - Reel Generator:** Roadmap includes automatic background video stitching, subtitle overlay, and 9:16 aspect ratio formatting for Instagram and TikTok.
