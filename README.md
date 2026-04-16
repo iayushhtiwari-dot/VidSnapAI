@@ -41,12 +41,12 @@ python main.py
 **Output:** A high-quality audio file is generated and stored for the user to preview or download.
 
 + ## Roadmap (Upcoming)
-**Visual Integration:** Automatically fetching background footage or images based on keywords.
+ - **Visual Integration:** Automatically fetching background footage or images based on keywords.
 
-**Reel Formatting:** Exporting videos in 1080x1920 (9:16) format.
+ - **Reel Formatting:** Exporting videos in 1080x1920 (9:16) format.
 
-**Automated Subtitles:** Hardcoded captions synchronized with the generated audio.
+ - **Automated Subtitles:** Hardcoded captions synchronized with the generated audio.
 
-**Background Music:** AI-driven selection of BGM to match the mood of the script.
+ - **Background Music:** AI-driven selection of BGM to match the mood of the script.
 
-**Background Music:** AI-driven selection of BGM to match the mood of the script.
+ - **Background Music:** AI-driven selection of BGM to match the mood of the script.
